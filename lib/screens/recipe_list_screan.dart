@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:learn/providers/recipe_box.dart';
-import 'package:learn/widgets/recipe_item_widget.dart';
+import '../providers/recipe_box.dart';
+import '../widgets/recipe_item_widget.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
 class RecipeListScrean extends StatefulWidget {

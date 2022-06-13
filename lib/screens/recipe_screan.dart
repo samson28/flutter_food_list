@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:learn/utilities/favorite_change_notifier.dart';
+import '../utilities/favorite_change_notifier.dart';
 import '../widgets/title_section.dart';
 import '../widgets/button_section.dart';
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:learn/models/recipe.dart';
+import '../models/recipe.dart';
 import 'package:provider/provider.dart';
 //import 'package:transparent_image/transparent_image.dart';
 

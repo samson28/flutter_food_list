@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'favorite_widget.dart';
-import 'package:learn/models/recipe.dart';
+import '../models/recipe.dart';
 
 class TileSection extends StatelessWidget {
   final Recipe recipe;

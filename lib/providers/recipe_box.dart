@@ -101,7 +101,7 @@ class RecipeDataBase {
 }*/
 
 import 'package:hive/hive.dart';
-import 'package:learn/models/recipe.dart';
+import '../models/recipe.dart';
 import 'package:path_provider/path_provider.dart';
 
 class RecipeBox {

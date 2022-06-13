@@ -1,6 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:learn/models/recipe.dart';
+import '../models/recipe.dart';
 
 class RecipeItemWidget extends StatelessWidget {
   final Recipe recipe;

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:learn/providers/recipe_box.dart';
-import 'package:learn/utilities/route.dart';
-import 'package:learn/screens/recipe_list_screan.dart';
+import '/providers/recipe_box.dart';
+import '/utilities/route.dart';
+import '/screens/recipe_list_screan.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

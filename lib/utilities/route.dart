@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:learn/models/recipe.dart';
-import 'package:learn/screens/recipe_form_screan.dart';
-import 'package:learn/screens/recipe_list_screan.dart';
-import 'package:learn/screens/recipe_screan.dart';
+import '../models/recipe.dart';
+import '../screens/recipe_form_screan.dart';
+import '../screens/recipe_list_screan.dart';
+import '../screens/recipe_screan.dart';
 
 class RouteGenerator {
   static Route<dynamic> generateRoute(RouteSettings settings) {

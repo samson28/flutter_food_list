@@ -1,8 +1,8 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:learn/models/recipe.dart';
-import 'package:learn/providers/recipe_box.dart';
+import '../models/recipe.dart';
+import '../providers/recipe_box.dart';
 
 class RecipeFormScrean extends StatefulWidget {
   const RecipeFormScrean({Key? key}) : super(key: key);

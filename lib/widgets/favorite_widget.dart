@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:learn/utilities/favorite_change_notifier.dart';
+import '../utilities/favorite_change_notifier.dart';
 import 'package:provider/provider.dart';
 
 class FavoriteWidget extends StatefulWidget {
